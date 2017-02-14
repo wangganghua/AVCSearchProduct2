@@ -63,4 +63,4 @@ def retext2():
     for i in wx:
         print i
 
-texd()
+retext()

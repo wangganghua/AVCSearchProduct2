@@ -7,6 +7,7 @@ import time
 import threading
 from HTMLParser import HTMLParser
 from datetime import datetime
+from errorlogs import ErrorLogsFile
 import re
 import sys
 default_encoding = "utf-8"
@@ -16,7 +17,7 @@ if sys.getdefaultencoding() != default_encoding:
 
 
 # 存放采集手机数据的redis key name
-redis_key_phone_w = "dpc_phone_url:start_urlsssss"
+redis_key_phone_w = "dpc_phone_url:start_url"
 # 读取筛选无效的手机数据，过滤
 redis_key_invalid_r = "dpc_phone_url:item_invalid"
 # 读取手机redis key name--"dpc_phone_keywords:item_keywords"
@@ -31,7 +32,7 @@ rconnection_yz = redis.Redis(host='117.122.192.50', port=6479, db=0)
 rconnection_test = redis.Redis(host='192.168.2.245', port=6379, db=0)
 # 2017-02-10 11:49:35.608000
 # 设置循环次数，如果超过该次数，则跳出
-errorCount = 2
+errorCount = 5
 
 # 存放搜索无效的关键词
 invalid_keywords = rconnection_test.lrange(redis_key_invalid_r, 0, -1)
@@ -71,7 +72,6 @@ def search_TM(keybrand, keywords,topcount):
         proxiip = proxyjson["ip"]
         sesson.proxies = {'http': 'http://' + proxiip, 'https': 'https://' + proxiip}
         try:
-            print "------proxy_ip---%s" % proxyjson["ip"]
             req = sesson.get(url, timeout=30)
             html = req.text
             req.close()
@@ -114,15 +114,25 @@ def search_TM(keybrand, keywords,topcount):
                                             isvaluecount += 1
                                             rconnection_test.lpush(redis_key_phone_w, result)
                                 else:
-                                    print "%s:can not find TM url spname,please search regular is valid" % datetime.now()
+                                    print "%s:can not find TM url spname,please search regular is valid:%s,%s" % (datetime.now(), keywords,url)
+                                    wr = ErrorLogsFile(
+                                         "can not find TM url spname,please search regular is valid:%s,%s" % (keywords,url))
+                                    wr.saveerrorlog()
                             else:
                                 print "%s:can not find TM url id,please search regular is valid" % datetime.now()
+                                wr = ErrorLogsFile("can not find TM url id,please search regular is valid:%s,%s" % (keywords,url))
+                                wr.saveerrorlog()
                 else:
                     print "%s:TM url---the first regular is valid ?" % datetime.now()
+                    wr = ErrorLogsFile("TM url---the first regular is valid:%s,%s ?" % (keywords,url))
+                    wr.saveerrorlog()
         except Exception, e:
             isValue = True
             index += 1
-            print "connection redis error: %s , %s" % (index, e)
+            if index == errorCount:
+                print "connection redis error: %s , %s" % (index, e)
+                wr = ErrorLogsFile("connection redis error: url:%s , keyword:%s,errormessage:%s" % (url,keywords, e))
+                wr.saveerrorlog()
             time.sleep(5)
 
 
@@ -143,7 +153,6 @@ def search_JD(keybrand, keywords,topcount):
         proxiip = proxyjson["ip"]
         sesson.proxies = {'http': 'http://' + proxiip, 'https': 'https://' + proxiip}
         try:
-            print "------proxy_ip---%s" % proxyjson["ip"]
             req = sesson.get(url, timeout=30)
             req.encoding = "UTF-8"
             html = req.text
@@ -184,15 +193,26 @@ def search_JD(keybrand, keywords,topcount):
                                             isvaluecount += 1
                                             rconnection_test.lpush(redis_key_phone_w, result)
                                 else:
+                                    wr = ErrorLogsFile(
+                                        "can not find JD url spname,please search regular is valid:%s,%s" % (keywords, url))
+                                    wr.saveerrorlog()
                                     print "%s:can not find JD url spname,please search regular is valid" % datetime.now()
                             else:
+                                wr = ErrorLogsFile("can not find JD url id,please search regular is valid:%s,%s" % (keywords, url))
+                                wr.saveerrorlog()
                                 print "%s:can not find JD url id,please search regular is valid" % datetime.now()
                 else:
                     print "%s:JD url---the first regular is valid ?" % datetime.now()
+                    wr = ErrorLogsFile(
+                        "JD url---the first regular is valid:%s,%s ?" % (keywords, url))
+                    wr.saveerrorlog()
         except Exception, e:
             isValue = True
             index += 1
-            print "connection redis error: %s , %s" % (index, e)
+            if index == errorCount:
+                print "connection redis error: %s , %s" % (index, e)
+                wr = ErrorLogsFile("connection redis error: url:%s , keyword:%s,errormessage:%s" % (datetime.now(), url,keywords, e))
+                wr.saveerrorlog()
             time.sleep(5)
 
 
@@ -213,7 +233,6 @@ def search_SN(keybrand, keywords,topcount):
         proxiip = proxyjson["ip"]
         sesson.proxies = {'http': 'http://' + proxiip, 'https': 'https://' + proxiip}
         try:
-            print "------proxy_ip---%s" % proxyjson["ip"]
             req = sesson.get(url, timeout=30)
             req.encoding = "UTF-8"
             html = req.text
@@ -257,14 +276,26 @@ def search_SN(keybrand, keywords,topcount):
                                             rconnection_test.lpush(redis_key_phone_w, result)
                                 else:
                                     print "%s:can not find SN url spname,please search regular is valid" % datetime.now()
+                                    wr = ErrorLogsFile(
+                                        "can not find SN url spname,please search regular is valid:%s,%s" % (keywords, url))
                             else:
                                 print "%s:can not find SN url id,please search regular is valid" % datetime.now()
+
+                                wr = ErrorLogsFile("can not find SN url id,please search regular is valid:%s,%s" % (keywords, url))
+                                wr.saveerrorlog()
+
                 else:
                     print "%s:SN url---the first regular is valid ?" % datetime.now()
+                    wr = ErrorLogsFile(
+                        "SN url---the first regular is valid:%s,%s ?" % (keywords, url))
+                    wr.saveerrorlog()
         except Exception, e:
             isValue = True
             index += 1
-            print "connection redis error: %s , %s" % (index, e)
+            if index == errorCount:
+                print "connection redis error: %s , %s" % (index, e)
+                wr = ErrorLogsFile("connection redis error: url:%s , keyword:%s,errormessage:%s" % (url, keywords, e))
+                wr.saveerrorlog()
             time.sleep(5)
 
 
@@ -288,7 +319,6 @@ def search_YMX(keybrand, keywords,topcount):
         proxiip = proxyjson["ip"]
         sesson.proxies = {'http': 'http://' + proxiip, 'https': 'https://' + proxiip}
         try:
-            print "------proxy_ip---%s" % proxyjson["ip"]
             req = sesson.get(url, headers=header, timeout=30)
             req.encoding = "utf-8"
             html = req.text
@@ -334,14 +364,24 @@ def search_YMX(keybrand, keywords,topcount):
                                             rconnection_test.lpush(redis_key_phone_w, result)
                                 else:
                                     print "%s:can not find YMX url spname,please search regular is valid" % datetime.now()
+                                    wr = ErrorLogsFile(
+                                        "can not find YMX url spname,please search regular is valid:%s,%s" % (keywords, url))
                             else:
                                 print "%s:can not find YMX url id,please search regular is valid" % datetime.now()
+                                wr = ErrorLogsFile("can not find YMX url id,please search regular is valid:%s,%s" % (keywords, url))
+                                wr.saveerrorlog()
                 else:
                     print "%s:YMX url---the first regular is valid ?" % datetime.now()
+                    wr = ErrorLogsFile(
+                        "YMX url---the first regular is valid:%s,%s ?" % (keywords, url))
+                    wr.saveerrorlog()
         except Exception, e:
             isValue = True
             index += 1
-            print "connection redis error: %s , %s" % (index, e)
+            if index == errorCount:
+                print "connection redis error: %s , %s" % (index, e)
+                wr = ErrorLogsFile("connection redis error: url:%s , keyword:%s,errormessage:%s" % (url, keywords, e))
+                wr.saveerrorlog()
             time.sleep(5)
 
 
@@ -362,7 +402,6 @@ def search_YHD(keybrand, keywords,topcount):
         proxiip = proxyjson["ip"]
         sesson.proxies = {'http': 'http://' + proxiip, 'https': 'https://' + proxiip}
         try:
-            print "------proxy_ip---%s" % proxyjson["ip"]
             req = sesson.get(url, timeout=30)
             req.encoding = "UTF-8"
             html = req.text
@@ -404,15 +443,25 @@ def search_YHD(keybrand, keywords,topcount):
                                             isvaluecount += 1
                                             rconnection_test.lpush(redis_key_phone_w, result)
                                 else:
+                                    wr = ErrorLogsFile(
+                                        "can not find YHD url spname,please search regular is valid:%s,%s" % (keywords, url))
                                     print "%s:can not find YHD url spname,please search regular is valid" % datetime.now()
                             else:
+                                wr = ErrorLogsFile("can not find YHD url id,please search regular is valid:%s,%s" % (keywords, url))
+                                wr.saveerrorlog()
                                 print "%s:can not find YHD url id,please search regular is valid" % datetime.now()
                 else:
+                    wr = ErrorLogsFile(
+                        "YHD url---the first regular is valid:%s,%s ?" % (keywords, url))
+                    wr.saveerrorlog()
                     print "%s:YHD url---the first regular is valid ?" % datetime.now()
         except Exception, e:
             isValue = True
             index += 1
-            print "connection redis error: %s , %s" % (index, e)
+            if index == errorCount:
+                print "connection redis error: %s , %s" % (index, e)
+                wr = ErrorLogsFile("connection redis error: url:%s , keyword:%s,errormessage:%s" % (url, keywords, e))
+                wr.saveerrorlog()
             time.sleep(5)
 
 
@@ -422,7 +471,6 @@ if True:
     if keyisvalue:
         print keyisvalue
         # 读取品牌型号搜索
-
     else:
         print "没有找到key"
 

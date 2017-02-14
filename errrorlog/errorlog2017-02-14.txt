@@ -1,0 +1,366 @@
+2017-02-14 12:03:09 : 2017-02-14 12:03:09.820000:TM url---the first regular is valid:360 N4,https://list.tmall.com/search_product.htm?q=360 N4&type=p ? 
+2017-02-14 12:04:01 : 2017-02-14 12:04:01.399000:TM url---the first regular is valid:360 N4S,https://list.tmall.com/search_product.htm?q=360 N4S&type=p ? 
+2017-02-14 12:04:05 : 2017-02-14 12:04:05.112000:can not find TM url spname,please search regular is valid:vivo XPLAY6,https://list.tmall.com/search_product.htm?q=vivo XPLAY6&type=p 
+2017-02-14 12:04:05 : 2017-02-14 12:04:05.118000:can not find TM url spname,please search regular is valid:vivo XPLAY6,https://list.tmall.com/search_product.htm?q=vivo XPLAY6&type=p 
+2017-02-14 12:04:05 : 2017-02-14 12:04:05.127000:can not find TM url spname,please search regular is valid:vivo XPLAY6,https://list.tmall.com/search_product.htm?q=vivo XPLAY6&type=p 
+2017-02-14 12:05:00 : 2017-02-14 12:05:00.007000:can not find SN url id,please search regular is valid:vivo Y67,http://search.suning.com/emall/searchProductList.do?keyword=vivo Y67&pg=01&st=6 
+2017-02-14 12:05:00 : 2017-02-14 12:05:00.010000:can not find SN url id,please search regular is valid:vivo Y67,http://search.suning.com/emall/searchProductList.do?keyword=vivo Y67&pg=01&st=6 
+2017-02-14 12:05:00 : 2017-02-14 12:05:00.012000:can not find SN url id,please search regular is valid:vivo Y67,http://search.suning.com/emall/searchProductList.do?keyword=vivo Y67&pg=01&st=6 
+2017-02-14 12:05:00 : 2017-02-14 12:05:00.013000:can not find SN url id,please search regular is valid:vivo Y67,http://search.suning.com/emall/searchProductList.do?keyword=vivo Y67&pg=01&st=6 
+2017-02-14 12:05:00 : 2017-02-14 12:05:00.015000:can not find SN url id,please search regular is valid:vivo Y67,http://search.suning.com/emall/searchProductList.do?keyword=vivo Y67&pg=01&st=6 
+2017-02-14 12:05:00 : 2017-02-14 12:05:00.017000:can not find SN url id,please search regular is valid:vivo Y67,http://search.suning.com/emall/searchProductList.do?keyword=vivo Y67&pg=01&st=6 
+2017-02-14 12:05:00 : 2017-02-14 12:05:00.020000:can not find SN url id,please search regular is valid:vivo Y67,http://search.suning.com/emall/searchProductList.do?keyword=vivo Y67&pg=01&st=6 
+2017-02-14 12:05:44 : 2017-02-14 12:05:44.170000:can not find TM url spname,please search regular is valid:vivo Y67,https://list.tmall.com/search_product.htm?q=vivo Y67&type=p 
+2017-02-14 12:05:44 : 2017-02-14 12:05:44.173000:can not find TM url spname,please search regular is valid:vivo Y67,https://list.tmall.com/search_product.htm?q=vivo Y67&type=p 
+2017-02-14 12:05:44 : 2017-02-14 12:05:44.177000:can not find TM url spname,please search regular is valid:vivo Y67,https://list.tmall.com/search_product.htm?q=vivo Y67&type=p 
+2017-02-14 12:05:52 : 2017-02-14 12:05:52.692000:can not find SN url id,please search regular is valid:vivo X7,http://search.suning.com/emall/searchProductList.do?keyword=vivo X7&pg=01&st=6 
+2017-02-14 12:05:52 : 2017-02-14 12:05:52.694000:can not find SN url id,please search regular is valid:vivo X7,http://search.suning.com/emall/searchProductList.do?keyword=vivo X7&pg=01&st=6 
+2017-02-14 12:05:52 : 2017-02-14 12:05:52.696000:can not find SN url id,please search regular is valid:vivo X7,http://search.suning.com/emall/searchProductList.do?keyword=vivo X7&pg=01&st=6 
+2017-02-14 12:05:56 : 2017-02-14 12:05:56.758000:can not find SN url id,please search regular is valid:OPPO A59S,http://search.suning.com/emall/searchProductList.do?keyword=OPPO A59S&pg=01&st=6 
+2017-02-14 12:05:56 : 2017-02-14 12:05:56.760000:can not find SN url id,please search regular is valid:OPPO A59S,http://search.suning.com/emall/searchProductList.do?keyword=OPPO A59S&pg=01&st=6 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.131000:can not find TM url spname,please search regular is valid:OPPO A59S,https://list.tmall.com/search_product.htm?q=OPPO A59S&type=p 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.134000:can not find TM url spname,please search regular is valid:OPPO A59S,https://list.tmall.com/search_product.htm?q=OPPO A59S&type=p 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.140000:can not find TM url spname,please search regular is valid:OPPO A59S,https://list.tmall.com/search_product.htm?q=OPPO A59S&type=p 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.408000:can not find SN url id,please search regular is valid:OPPO A37,http://search.suning.com/emall/searchProductList.do?keyword=OPPO A37&pg=01&st=6 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.410000:can not find SN url id,please search regular is valid:OPPO A37,http://search.suning.com/emall/searchProductList.do?keyword=OPPO A37&pg=01&st=6 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.413000:can not find SN url id,please search regular is valid:OPPO A37,http://search.suning.com/emall/searchProductList.do?keyword=OPPO A37&pg=01&st=6 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.416000:can not find SN url id,please search regular is valid:OPPO A37,http://search.suning.com/emall/searchProductList.do?keyword=OPPO A37&pg=01&st=6 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.418000:can not find SN url id,please search regular is valid:OPPO A37,http://search.suning.com/emall/searchProductList.do?keyword=OPPO A37&pg=01&st=6 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.421000:can not find SN url id,please search regular is valid:OPPO A37,http://search.suning.com/emall/searchProductList.do?keyword=OPPO A37&pg=01&st=6 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.423000:can not find SN url id,please search regular is valid:OPPO A37,http://search.suning.com/emall/searchProductList.do?keyword=OPPO A37&pg=01&st=6 
+2017-02-14 12:06:00 : 2017-02-14 12:06:00.425000:can not find SN url id,please search regular is valid:OPPO A37,http://search.suning.com/emall/searchProductList.do?keyword=OPPO A37&pg=01&st=6 
+2017-02-14 12:06:08 : 2017-02-14 12:06:08.710000:can not find TM url spname,please search regular is valid:OPPO A37,https://list.tmall.com/search_product.htm?q=OPPO A37&type=p 
+2017-02-14 12:06:08 : 2017-02-14 12:06:08.713000:can not find TM url spname,please search regular is valid:OPPO A37,https://list.tmall.com/search_product.htm?q=OPPO A37&type=p 
+2017-02-14 12:06:08 : 2017-02-14 12:06:08.716000:can not find TM url spname,please search regular is valid:OPPO A37,https://list.tmall.com/search_product.htm?q=OPPO A37&type=p 
+2017-02-14 12:06:10 : 2017-02-14 12:06:10.515000:can not find YMX url id,please search regular is valid:OPPO R9S Plus,https://www.amazon.cn/s/field-keywords=OPPO R9S Plus 
+2017-02-14 12:06:19 : 2017-02-14 12:06:19.855000:can not find TM url spname,please search regular is valid:OPPO R9S Plus,https://list.tmall.com/search_product.htm?q=OPPO R9S Plus&type=p 
+2017-02-14 12:06:19 : 2017-02-14 12:06:19.858000:can not find TM url spname,please search regular is valid:OPPO R9S Plus,https://list.tmall.com/search_product.htm?q=OPPO R9S Plus&type=p 
+2017-02-14 12:06:19 : 2017-02-14 12:06:19.863000:can not find TM url spname,please search regular is valid:OPPO R9S Plus,https://list.tmall.com/search_product.htm?q=OPPO R9S Plus&type=p 
+2017-02-14 12:06:27 : 2017-02-14 12:06:27.170000:can not find SN url id,please search regular is valid:OPPO R9,http://search.suning.com/emall/searchProductList.do?keyword=OPPO R9&pg=01&st=6 
+2017-02-14 12:06:27 : 2017-02-14 12:06:27.172000:can not find SN url id,please search regular is valid:OPPO R9,http://search.suning.com/emall/searchProductList.do?keyword=OPPO R9&pg=01&st=6 
+2017-02-14 12:06:27 : 2017-02-14 12:06:27.174000:can not find SN url id,please search regular is valid:OPPO R9,http://search.suning.com/emall/searchProductList.do?keyword=OPPO R9&pg=01&st=6 
+2017-02-14 12:06:27 : 2017-02-14 12:06:27.176000:can not find SN url id,please search regular is valid:OPPO R9,http://search.suning.com/emall/searchProductList.do?keyword=OPPO R9&pg=01&st=6 
+2017-02-14 12:06:27 : 2017-02-14 12:06:27.178000:can not find SN url id,please search regular is valid:OPPO R9,http://search.suning.com/emall/searchProductList.do?keyword=OPPO R9&pg=01&st=6 
+2017-02-14 12:06:34 : 2017-02-14 12:06:34.750000:can not find YMX url id,please search regular is valid:OPPO R9,https://www.amazon.cn/s/field-keywords=OPPO R9 
+2017-02-14 12:06:36 : 2017-02-14 12:06:36.258000:can not find YMX url id,please search regular is valid:OPPO R9S,https://www.amazon.cn/s/field-keywords=OPPO R9S 
+2017-02-14 12:06:36 : 2017-02-14 12:06:36.556000:can not find SN url id,please search regular is valid:OPPO R9S,http://search.suning.com/emall/searchProductList.do?keyword=OPPO R9S&pg=01&st=6 
+2017-02-14 12:06:36 : 2017-02-14 12:06:36.558000:can not find SN url id,please search regular is valid:OPPO R9S,http://search.suning.com/emall/searchProductList.do?keyword=OPPO R9S&pg=01&st=6 
+2017-02-14 12:06:36 : 2017-02-14 12:06:36.560000:can not find SN url id,please search regular is valid:OPPO R9S,http://search.suning.com/emall/searchProductList.do?keyword=OPPO R9S&pg=01&st=6 
+2017-02-14 12:06:36 : 2017-02-14 12:06:36.563000:can not find SN url id,please search regular is valid:OPPO R9S,http://search.suning.com/emall/searchProductList.do?keyword=OPPO R9S&pg=01&st=6 
+2017-02-14 12:06:36 : 2017-02-14 12:06:36.565000:can not find SN url id,please search regular is valid:OPPO R9S,http://search.suning.com/emall/searchProductList.do?keyword=OPPO R9S&pg=01&st=6 
+2017-02-14 12:06:37 : 2017-02-14 12:06:37.560000:can not find TM url spname,please search regular is valid:OPPO R9S,https://list.tmall.com/search_product.htm?q=OPPO R9S&type=p 
+2017-02-14 12:06:37 : 2017-02-14 12:06:37.563000:can not find TM url spname,please search regular is valid:OPPO R9S,https://list.tmall.com/search_product.htm?q=OPPO R9S&type=p 
+2017-02-14 12:06:37 : 2017-02-14 12:06:37.566000:can not find TM url spname,please search regular is valid:OPPO R9S,https://list.tmall.com/search_product.htm?q=OPPO R9S&type=p 
+2017-02-14 12:06:41 : 2017-02-14 12:06:41.280000:TM url---the first regular is valid:三星Galaxy S7,https://list.tmall.com/search_product.htm?q=三星Galaxy S7&type=p ? 
+2017-02-14 12:07:26 : 2017-02-14 12:07:26.104000:can not find YMX url id,please search regular is valid:三星Galaxy A8,https://www.amazon.cn/s/field-keywords=三星Galaxy A8 
+2017-02-14 12:07:30 : 2017-02-14 12:07:30.658000:can not find YMX url id,please search regular is valid:三星Galaxy C7,https://www.amazon.cn/s/field-keywords=三星Galaxy C7 
+2017-02-14 12:07:32 : 2017-02-14 12:07:32.032000:TM url---the first regular is valid:三星Galaxy C7,https://list.tmall.com/search_product.htm?q=三星Galaxy C7&type=p ? 
+2017-02-14 12:08:19 : 2017-02-14 12:08:19.474000:TM url---the first regular is valid:三星Galaxy C9 Pro,https://list.tmall.com/search_product.htm?q=三星Galaxy C9 Pro&type=p ? 
+2017-02-14 12:08:20 : 2017-02-14 12:08:20.932000:TM url---the first regular is valid:三星Galaxy ON5,https://list.tmall.com/search_product.htm?q=三星Galaxy ON5&type=p ? 
+2017-02-14 12:08:23 : 2017-02-14 12:08:23.990000:can not find SN url id,please search regular is valid:三星Galaxy ON5,http://search.suning.com/emall/searchProductList.do?keyword=三星Galaxy ON5&pg=01&st=6 
+2017-02-14 12:08:31 : 2017-02-14 12:08:31.438000:can not find SN url id,please search regular is valid:乐Pro 3,http://search.suning.com/emall/searchProductList.do?keyword=乐Pro 3&pg=01&st=6 
+2017-02-14 12:08:31 : 2017-02-14 12:08:31.440000:can not find SN url id,please search regular is valid:乐Pro 3,http://search.suning.com/emall/searchProductList.do?keyword=乐Pro 3&pg=01&st=6 
+2017-02-14 12:08:47 : 2017-02-14 12:08:47.406000:can not find SN url id,please search regular is valid:乐Max2,http://search.suning.com/emall/searchProductList.do?keyword=乐Max2&pg=01&st=6 
+2017-02-14 12:08:47 : 2017-02-14 12:08:47.408000:can not find SN url id,please search regular is valid:乐Max2,http://search.suning.com/emall/searchProductList.do?keyword=乐Max2&pg=01&st=6 
+2017-02-14 12:08:47 : 2017-02-14 12:08:47.410000:can not find SN url id,please search regular is valid:乐Max2,http://search.suning.com/emall/searchProductList.do?keyword=乐Max2&pg=01&st=6 
+2017-02-14 12:08:47 : 2017-02-14 12:08:47.412000:can not find SN url id,please search regular is valid:乐Max2,http://search.suning.com/emall/searchProductList.do?keyword=乐Max2&pg=01&st=6 
+2017-02-14 12:08:47 : 2017-02-14 12:08:47.415000:can not find SN url id,please search regular is valid:乐Max2,http://search.suning.com/emall/searchProductList.do?keyword=乐Max2&pg=01&st=6 
+2017-02-14 12:08:47 : 2017-02-14 12:08:47.418000:can not find SN url id,please search regular is valid:乐Max2,http://search.suning.com/emall/searchProductList.do?keyword=乐Max2&pg=01&st=6 
+2017-02-14 12:09:20 : 2017-02-14 12:09:20.150000:can not find SN url id,please search regular is valid:乐2 Pro,http://search.suning.com/emall/searchProductList.do?keyword=乐2 Pro&pg=01&st=6 
+2017-02-14 12:09:20 : 2017-02-14 12:09:20.152000:can not find SN url id,please search regular is valid:乐2 Pro,http://search.suning.com/emall/searchProductList.do?keyword=乐2 Pro&pg=01&st=6 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.007000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.009000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.011000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.013000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.015000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.017000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.018000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.020000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.021000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.022000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.023000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.024000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.025000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.026000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.027000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.028000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.029000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.030000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.031000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.032000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.034000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.035000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.036000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.036000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.038000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.039000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.040000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.041000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.042000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.043000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.044000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.045000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.046000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.047000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.048000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.049000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.049000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.050000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.052000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.053000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.054000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.054000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.055000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.056000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.057000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.058000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.059000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.061000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.061000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.062000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.064000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.065000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.066000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.067000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.068000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.069000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.070000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.071000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.072000:can not find TM url spname,please search regular is valid:乐2,https://list.tmall.com/search_product.htm?q=乐2&type=p 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.823000:can not find SN url id,please search regular is valid:MX6,http://search.suning.com/emall/searchProductList.do?keyword=MX6&pg=01&st=6 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.825000:can not find SN url id,please search regular is valid:MX6,http://search.suning.com/emall/searchProductList.do?keyword=MX6&pg=01&st=6 
+2017-02-14 12:09:32 : 2017-02-14 12:09:32.827000:can not find SN url id,please search regular is valid:MX6,http://search.suning.com/emall/searchProductList.do?keyword=MX6&pg=01&st=6 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.823000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.825000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.827000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.829000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.830000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.831000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.832000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.834000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.835000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.836000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.837000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.838000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.839000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.841000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.842000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.843000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.844000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.845000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.846000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.848000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.849000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.850000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.851000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.852000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.854000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.855000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.856000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.857000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.858000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.859000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.861000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.862000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.863000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.864000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.865000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.866000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.867000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.869000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.870000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.871000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.872000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.873000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.874000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.876000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.877000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.878000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.879000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.881000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.882000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.883000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.885000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.886000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.887000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.888000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.889000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.889000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.890000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.891000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.892000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:09:50 : 2017-02-14 12:09:50.893000:can not find TM url spname,please search regular is valid:MX PRO5,https://list.tmall.com/search_product.htm?q=MX PRO5&type=p 
+2017-02-14 12:10:30 : 2017-02-14 12:10:30.979000:YHD url---the first regular is valid:MX 5E,http://search.yhd.com/c-/kMX 5E/#page=1&sort=5 ? 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.264000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.266000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.268000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.270000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.271000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.273000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.275000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.277000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.278000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.279000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.280000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.281000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.282000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.283000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.284000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.285000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.286000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.287000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.288000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.289000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.290000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.291000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.292000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.293000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.294000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.295000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.296000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.297000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.298000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.299000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.300000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.301000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.302000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.303000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.304000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.305000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.306000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.307000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.308000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.309000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.310000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.310000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.311000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.312000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.313000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.314000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.315000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.315000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.316000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.317000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.318000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.319000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.320000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.320000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.321000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.322000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.323000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.324000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.325000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:33 : 2017-02-14 12:10:33.326000:can not find TM url spname,please search regular is valid:MX 5E,https://list.tmall.com/search_product.htm?q=MX 5E&type=p 
+2017-02-14 12:10:43 : 2017-02-14 12:10:43.480000:can not find SN url id,please search regular is valid:MX 5E,http://search.suning.com/emall/searchProductList.do?keyword=MX 5E&pg=01&st=6 
+2017-02-14 12:10:43 : 2017-02-14 12:10:43.482000:can not find SN url id,please search regular is valid:MX 5E,http://search.suning.com/emall/searchProductList.do?keyword=MX 5E&pg=01&st=6 
+2017-02-14 12:10:43 : 2017-02-14 12:10:43.484000:can not find SN url id,please search regular is valid:MX 5E,http://search.suning.com/emall/searchProductList.do?keyword=MX 5E&pg=01&st=6 
+2017-02-14 12:10:44 : 2017-02-14 12:10:44.553000:can not find SN url id,please search regular is valid:魅蓝E,http://search.suning.com/emall/searchProductList.do?keyword=魅蓝E&pg=01&st=6 
+2017-02-14 12:12:13 : 2017-02-14 12:12:13.794000:can not find SN url id,please search regular is valid:华为G7 Plus,http://search.suning.com/emall/searchProductList.do?keyword=华为G7 Plus&pg=01&st=6 
+2017-02-14 12:12:13 : 2017-02-14 12:12:13.796000:can not find SN url id,please search regular is valid:华为G7 Plus,http://search.suning.com/emall/searchProductList.do?keyword=华为G7 Plus&pg=01&st=6 
+2017-02-14 12:12:13 : 2017-02-14 12:12:13.798000:can not find SN url id,please search regular is valid:华为G7 Plus,http://search.suning.com/emall/searchProductList.do?keyword=华为G7 Plus&pg=01&st=6 
+2017-02-14 12:12:13 : 2017-02-14 12:12:13.800000:can not find SN url id,please search regular is valid:华为G7 Plus,http://search.suning.com/emall/searchProductList.do?keyword=华为G7 Plus&pg=01&st=6 
+2017-02-14 12:12:13 : 2017-02-14 12:12:13.803000:can not find SN url id,please search regular is valid:华为G7 Plus,http://search.suning.com/emall/searchProductList.do?keyword=华为G7 Plus&pg=01&st=6 
+2017-02-14 12:12:13 : 2017-02-14 12:12:13.805000:can not find SN url id,please search regular is valid:华为G7 Plus,http://search.suning.com/emall/searchProductList.do?keyword=华为G7 Plus&pg=01&st=6 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.350000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.352000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.354000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.356000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.358000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.360000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.362000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.363000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.365000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.367000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.369000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.371000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.373000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.374000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.376000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.378000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.380000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.382000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.384000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.385000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.387000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.388000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.389000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.390000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.391000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.392000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.393000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.394000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.395000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.396000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.397000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.398000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.399000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.400000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.401000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.402000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.403000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.404000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.405000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.406000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.407000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.408000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.409000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.410000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.411000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.412000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.413000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.414000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.415000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.416000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.417000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.418000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.419000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.420000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.421000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.422000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.423000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.425000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.426000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:22 : 2017-02-14 12:13:22.427000:can not find TM url spname,please search regular is valid:华为畅享5S,https://list.tmall.com/search_product.htm?q=华为畅享5S&type=p 
+2017-02-14 12:13:40 : 2017-02-14 12:13:40.287000:can not find SN url id,please search regular is valid:iPhone 6 Plus,http://search.suning.com/emall/searchProductList.do?keyword=iPhone 6 Plus&pg=01&st=6 
+2017-02-14 12:13:41 : 2017-02-14 12:13:41.550000:can not find TM url spname,please search regular is valid:iPhone 6 Plus,https://list.tmall.com/search_product.htm?q=iPhone 6 Plus&type=p 
+2017-02-14 12:13:41 : 2017-02-14 12:13:41.553000:can not find TM url spname,please search regular is valid:iPhone 6 Plus,https://list.tmall.com/search_product.htm?q=iPhone 6 Plus&type=p 
+2017-02-14 12:13:41 : 2017-02-14 12:13:41.557000:can not find TM url spname,please search regular is valid:iPhone 6 Plus,https://list.tmall.com/search_product.htm?q=iPhone 6 Plus&type=p 
+2017-02-14 12:13:46 : 2017-02-14 12:13:46.788000:can not find YMX url id,please search regular is valid:iPhone 6 Plus,https://www.amazon.cn/s/field-keywords=iPhone 6 Plus 
+2017-02-14 12:13:46 : 2017-02-14 12:13:46.790000:can not find YMX url id,please search regular is valid:iPhone 6 Plus,https://www.amazon.cn/s/field-keywords=iPhone 6 Plus 
+2017-02-14 12:13:46 : 2017-02-14 12:13:46.792000:can not find YMX url id,please search regular is valid:iPhone 6 Plus,https://www.amazon.cn/s/field-keywords=iPhone 6 Plus 
+2017-02-14 12:13:53 : 2017-02-14 12:13:53.622000:can not find SN url id,please search regular is valid:iPhone 6S,http://search.suning.com/emall/searchProductList.do?keyword=iPhone 6S&pg=01&st=6 
+2017-02-14 12:13:53 : 2017-02-14 12:13:53.624000:can not find SN url id,please search regular is valid:iPhone 6S,http://search.suning.com/emall/searchProductList.do?keyword=iPhone 6S&pg=01&st=6 
+2017-02-14 12:13:53 : 2017-02-14 12:13:53.626000:can not find SN url id,please search regular is valid:iPhone 6S,http://search.suning.com/emall/searchProductList.do?keyword=iPhone 6S&pg=01&st=6 
+2017-02-14 12:13:53 : 2017-02-14 12:13:53.628000:can not find SN url id,please search regular is valid:iPhone 6S,http://search.suning.com/emall/searchProductList.do?keyword=iPhone 6S&pg=01&st=6 
+2017-02-14 12:13:53 : 2017-02-14 12:13:53.630000:can not find SN url id,please search regular is valid:iPhone 6S,http://search.suning.com/emall/searchProductList.do?keyword=iPhone 6S&pg=01&st=6 
+2017-02-14 12:13:53 : 2017-02-14 12:13:53.632000:can not find SN url id,please search regular is valid:iPhone 6S,http://search.suning.com/emall/searchProductList.do?keyword=iPhone 6S&pg=01&st=6 
+2017-02-14 12:13:53 : 2017-02-14 12:13:53.634000:can not find SN url id,please search regular is valid:iPhone 6S,http://search.suning.com/emall/searchProductList.do?keyword=iPhone 6S&pg=01&st=6 
+2017-02-14 12:13:55 : 2017-02-14 12:13:55.182000:can not find TM url spname,please search regular is valid:iPhone 7,https://list.tmall.com/search_product.htm?q=iPhone 7&type=p 
+2017-02-14 12:13:55 : 2017-02-14 12:13:55.185000:can not find TM url spname,please search regular is valid:iPhone 7,https://list.tmall.com/search_product.htm?q=iPhone 7&type=p 
+2017-02-14 12:14:02 : 2017-02-14 12:14:02.627000:can not find TM url spname,please search regular is valid:iPhone 7 Plus,https://list.tmall.com/search_product.htm?q=iPhone 7 Plus&type=p 
+2017-02-14 12:14:02 : 2017-02-14 12:14:02.630000:can not find TM url spname,please search regular is valid:iPhone 7 Plus,https://list.tmall.com/search_product.htm?q=iPhone 7 Plus&type=p 
+2017-02-14 12:14:02 : 2017-02-14 12:14:02.634000:can not find TM url spname,please search regular is valid:iPhone 7 Plus,https://list.tmall.com/search_product.htm?q=iPhone 7 Plus&type=p 
+2017-02-14 12:14:58 : 2017-02-14 12:14:58.965000:can not find YMX url id,please search regular is valid:iPhone 7 Plus,https://www.amazon.cn/s/field-keywords=iPhone 7 Plus 
+2017-02-14 12:14:58 : 2017-02-14 12:14:58.966000:can not find YMX url id,please search regular is valid:iPhone 7 Plus,https://www.amazon.cn/s/field-keywords=iPhone 7 Plus 
+2017-02-14 12:14:58 : 2017-02-14 12:14:58.967000:can not find YMX url id,please search regular is valid:iPhone 7 Plus,https://www.amazon.cn/s/field-keywords=iPhone 7 Plus 
+2017-02-14 12:14:59 : 2017-02-14 12:14:59.401000:can not find SN url id,please search regular is valid:红米4,http://search.suning.com/emall/searchProductList.do?keyword=红米4&pg=01&st=6 
+2017-02-14 12:16:25 : 2017-02-14 12:16:25.917000:can not find YMX url id,please search regular is valid:小米5S,https://www.amazon.cn/s/field-keywords=小米5S 
+2017-02-14 12:16:41 : 2017-02-14 12:16:41.737000:can not find SN url id,please search regular is valid:小米5S,http://search.suning.com/emall/searchProductList.do?keyword=小米5S&pg=01&st=6 
+2017-02-14 12:16:41 : 2017-02-14 12:16:41.741000:can not find SN url id,please search regular is valid:小米5S,http://search.suning.com/emall/searchProductList.do?keyword=小米5S&pg=01&st=6 
+2017-02-14 12:16:41 : 2017-02-14 12:16:41.763000:can not find SN url id,please search regular is valid:小米5S,http://search.suning.com/emall/searchProductList.do?keyword=小米5S&pg=01&st=6 
+2017-02-14 12:16:47 : 2017-02-14 12:16:47.612000:can not find SN url id,please search regular is valid:小米5,http://search.suning.com/emall/searchProductList.do?keyword=小米5&pg=01&st=6 
+2017-02-14 12:16:47 : 2017-02-14 12:16:47.614000:can not find SN url id,please search regular is valid:小米5,http://search.suning.com/emall/searchProductList.do?keyword=小米5&pg=01&st=6 
+2017-02-14 12:16:47 : 2017-02-14 12:16:47.616000:can not find SN url id,please search regular is valid:小米5,http://search.suning.com/emall/searchProductList.do?keyword=小米5&pg=01&st=6 
+2017-02-14 12:17:02 : 2017-02-14 12:17:02.911000:TM url---the first regular is valid:红米3S,https://list.tmall.com/search_product.htm?q=红米3S&type=p ? 
+2017-02-14 12:17:41 : 2017-02-14 12:17:41.847000:can not find SN url id,please search regular is valid:荣耀畅玩5,http://search.suning.com/emall/searchProductList.do?keyword=荣耀畅玩5&pg=01&st=6 
+2017-02-14 12:17:41 : 2017-02-14 12:17:41.850000:can not find SN url id,please search regular is valid:荣耀畅玩5,http://search.suning.com/emall/searchProductList.do?keyword=荣耀畅玩5&pg=01&st=6 
+2017-02-14 12:17:41 : 2017-02-14 12:17:41.852000:can not find SN url id,please search regular is valid:荣耀畅玩5,http://search.suning.com/emall/searchProductList.do?keyword=荣耀畅玩5&pg=01&st=6 
+2017-02-14 12:17:41 : 2017-02-14 12:17:41.854000:can not find SN url id,please search regular is valid:荣耀畅玩5,http://search.suning.com/emall/searchProductList.do?keyword=荣耀畅玩5&pg=01&st=6 
+2017-02-14 12:17:41 : 2017-02-14 12:17:41.856000:can not find SN url id,please search regular is valid:荣耀畅玩5,http://search.suning.com/emall/searchProductList.do?keyword=荣耀畅玩5&pg=01&st=6 
+2017-02-14 12:18:00 : 2017-02-14 12:18:00.163000:can not find YMX url id,please search regular is valid:荣耀V8,https://www.amazon.cn/s/field-keywords=荣耀V8 
+2017-02-14 12:18:31 : 2017-02-14 12:18:31.445000:can not find TM url spname,please search regular is valid:荣耀NOTE8,https://list.tmall.com/search_product.htm?q=荣耀NOTE8&type=p 
+2017-02-14 12:18:31 : 2017-02-14 12:18:31.448000:can not find TM url spname,please search regular is valid:荣耀NOTE8,https://list.tmall.com/search_product.htm?q=荣耀NOTE8&type=p 
+2017-02-14 12:18:31 : 2017-02-14 12:18:31.451000:can not find TM url spname,please search regular is valid:荣耀NOTE8,https://list.tmall.com/search_product.htm?q=荣耀NOTE8&type=p 
+2017-02-14 12:18:34 : 2017-02-14 12:18:34.730000:can not find SN url id,please search regular is valid:荣耀8,http://search.suning.com/emall/searchProductList.do?keyword=荣耀8&pg=01&st=6 
+2017-02-14 12:18:34 : 2017-02-14 12:18:34.732000:can not find SN url id,please search regular is valid:荣耀8,http://search.suning.com/emall/searchProductList.do?keyword=荣耀8&pg=01&st=6 
+2017-02-14 12:18:34 : 2017-02-14 12:18:34.734000:can not find SN url id,please search regular is valid:荣耀8,http://search.suning.com/emall/searchProductList.do?keyword=荣耀8&pg=01&st=6 
