@@ -53,7 +53,6 @@ search_YMX_url = "https://www.amazon.cn/s/field-keywords={0}"
 # 一号店 搜索按照【评论数】排序
 search_YHD_url = "http://search.yhd.com/c-/k{0}/#page=1&sort=5"
 
-
 def search_TM(keybrand, keywords,topcount):
     # 天猫搜索按照综合排序
     url = search_TM_url.format(keywords)
@@ -77,21 +76,29 @@ def search_TM(keybrand, keywords,topcount):
             req.close()
             isValue = False
             if html:
-                # print html
-                tzurl = re.findall(r'(<a href="//detail.tmall.com/item.htm?)+(.*)(</a>)', html)
+                # tzurl = re.findall(r'(<a href="//detail.tmall.com/item.htm?)+(.*)(</a>)', html)
+                tzurl = re.findall(r'<p class="productTitle">[\s\S]*?</p>', html)
+                wgh = 0
+                if len(tzurl) == 0:
+                    wgh = 1
+                    tzurl = re.findall(r'(<a href="//detail.tmall.com/item.htm?)+(.*)(</a>)', html)
+
                 if tzurl:
                     for i in tzurl:
-                        # print i[1]
-                        if len(i) == 3:
-                            # print i[1]
+                        # print i
+                        if (wgh == 1):
+                            ix = i[1]
+                        else:
+                            ix = i
+                        if len(ix) > 0:
                             # 开始查找id号,
-                            search_id = re.search("(id=(?P<dd>.*?))+(&amp;skuId)", i[1])
+                            search_id = re.search("(id=(?P<dd>.*?))+(&amp;skuId)", ix)
                             if search_id:
                                 # 截取页面信息id
                                 spid = search_id.group("dd")
                                 # print spid
                                 # 截取页面信息商品名称
-                                search_spname = re.search("(title=.*)+(>.*)", i[1])
+                                search_spname = re.search("(title=.*)+(>.*)", ix)
                                 if search_spname:
                                     spname = search_spname.group()
                                     # print spname
@@ -134,7 +141,6 @@ def search_TM(keybrand, keywords,topcount):
                 wr = ErrorLogsFile("connection redis error: url:%s , keyword:%s,errormessage:%s" % (url,keywords, e))
                 wr.saveerrorlog()
             time.sleep(5)
-
 
 def search_JD(keybrand, keywords,topcount):
     # 京东搜索按照综合排序
@@ -246,7 +252,7 @@ def search_SN(keybrand, keywords,topcount):
                         if len(i) == 2:
                             # 开始查找id号,
                             # search_id = re.search('(href="//item.jd.com/(?P<dd>\d+))', i[1])
-                            search_id = re.search('(?P<dd>\d+/\d+)(.html">)', i[1])
+                            search_id = re.search('(?P<dd>\d+.*)(.html">)', i[1])
                             if search_id:
                                 # 截取页面信息id
                                 spid = search_id.group("dd")
@@ -465,7 +471,7 @@ def search_YHD(keybrand, keywords,topcount):
             time.sleep(5)
 
 
-if True:
+def run():
     # 读取手机型号
     keyisvalue = rconnection_test.keys(redis_key_phone_model)
     if keyisvalue:
@@ -495,3 +501,93 @@ if True:
         else:
             break
     print "end : %s" % datetime.now()
+
+def search_YMX_test(keybrand, keywords,topcount):
+    header = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:51.0)"
+    }
+    url = search_YMX_url.format(keywords)
+
+    sesson = requests.session()
+    isValue = True
+    index = 0
+    isvaluecount = 0
+    while isValue:
+        if errorCount < index:
+            print "%s: YMX not find this keywords : %s" % (datetime.now(), keywords)
+            break
+        # 随机获取代理ip
+        proxy = rconnection_yz.srandmember(redis_key_proxy)
+        proxyjson = json.loads(proxy)
+        proxiip = proxyjson["ip"]
+        sesson.proxies = {'http': 'http://' + proxiip, 'https': 'https://' + proxiip}
+        try:
+            req = sesson.get(url, headers=header, timeout=30)
+            req.encoding = "utf-8"
+            html = req.text
+            isValue = False
+            if html:
+                html = HTMLParser().unescape(html)
+                # print html
+                tzurl = re.findall(r'(<a class="a-link-normal s-access-detail-page  a-text-normal" target="_blank" title=")(.*)(</h2>)', html)
+                if tzurl:
+                    # print tzurl
+                    for i in tzurl:
+                        # print i[1]
+                        if len(i) == 3:
+                            # 开始查找id号,
+                            # search_id = re.search('(href="//item.jd.com/(?P<dd>\d+))', i[1])
+                            search_id = re.search('(href="https://www.amazon.cn/dp/)(?P<dd>.*)("><h2)', i[1])
+                            if search_id:
+                                # 截取页面信息id
+                                spid = search_id.group("dd")
+                                # print spid
+                                # 截取页面信息商品名称
+                                search_spname = i[1]
+                                if search_spname:
+                                    spname = search_spname
+                                    # print spname
+                                    # 判断是否无效,如果isspnameTrue 为True,则表示无效数据，过滤，如果为False，表示是有效数据
+                                    isspnameTrue = False
+                                    for ia in invalid_keywords:
+                                        if ia in spname and "送" not in spname:
+                                            isspnameTrue = True
+                                    if isspnameTrue == True:
+                                        # print "------invalid data YMX，pass------"
+                                        continue
+                                    else:
+                                        result_url = YMX_url.format(spid)
+                                        result = '{"attrs":{"category":"手机","brand":"%s","model":"%s","urlweb":"YMX"},"url":"%s"}'% (keybrand,keywords,result_url)
+                                        # 拼写json类型保存至redis
+                                        # print result
+                                        if isvaluecount == topcount:
+                                            break
+                                        else:
+                                            isvaluecount += 1
+                                            rconnection_test.lpush(redis_key_phone_w, result)
+                                else:
+                                    print "%s:can not find YMX url spname,please search regular is valid" % datetime.now()
+                                    wr = ErrorLogsFile(
+                                        "can not find YMX url spname,please search regular is valid:%s,%s" % (keywords, url))
+                            else:
+                                print "%s:can not find YMX url id,please search regular is valid" % datetime.now()
+                                wr = ErrorLogsFile("can not find YMX url id,please search regular is valid:%s,%s" % (keywords, url))
+                                wr.saveerrorlog()
+                else:
+                    print "%s:YMX url---the first regular is valid ?" % datetime.now()
+                    wr = ErrorLogsFile(
+                        "YMX url---the first regular is valid:%s,%s ?" % (keywords, url))
+                    wr.saveerrorlog()
+        except Exception, e:
+            isValue = True
+            index += 1
+            if index == errorCount:
+                print "connection redis error: %s , %s" % (index, e)
+                wr = ErrorLogsFile("connection redis error: url:%s , keyword:%s,errormessage:%s" % (url, keywords, e))
+                wr.saveerrorlog()
+            time.sleep(5)
+
+
+if True:
+    run()
+    # search_YMX_test("三星Galaxy C7","O三星Galaxy C7",3)
